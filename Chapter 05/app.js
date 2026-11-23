@@ -6,8 +6,8 @@
 // document.write("The sum of " + num1 + " and " + num2 + " is " + sum);
 
 //Question 2
-// var num1 = +prompt("Enter the first number:");
-// var num2 = +prompt("Enter the second number:");
+// var num1 = prompt("Enter the first number:");
+// var num2 = prompt("Enter the second number:");
 // var subtraction = num1 - num2;
 // document.write("The Subtraction of " + num1 + " and " + num2 + " is " + subtraction);
 
